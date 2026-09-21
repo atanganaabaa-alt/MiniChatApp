@@ -13,7 +13,7 @@ java -cp out MiniChatApp
 
 **Pour tester à 2 :**
 - **1 PC** : ouvre **deux** terminaux et lance `java -cp out MiniChatApp` deux fois  
-- **2 PC** : même Wi‑Fi, une instance sur chaque machine  
+- **2 PC** : même Wi-Fi, une instance sur chaque machine  
 
 Puis **Find** → tu vois `NomAppareil : 192.168.x.x` → **chat** sur la même ligne → discutez.
 
